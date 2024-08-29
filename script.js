@@ -152,4 +152,3 @@ nextButton.addEventListener('click', () => {
 
 
 startQuiz()
-// showQuestion()
